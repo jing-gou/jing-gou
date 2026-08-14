@@ -1,27 +1,47 @@
-<div align="center">
-  <img src="./assets/profile-card.svg" width="100%" alt="Hi, I'm Sugar - a student developer who loves building useful things">
-</div>
+<img align="right" src="./assets/frog.png" width="380" alt="Pixel-art green frog">
 
-<p align="center">
-  <a href="https://github.com/jing-gou"><img src="https://img.shields.io/badge/GitHub-jing--gou-202124?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  &nbsp;
-  <a href="mailto:sugar.pub@outlook.com"><img src="https://img.shields.io/badge/Email-sugar.pub%40outlook.com-3d9144?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-  &nbsp;
-  <a href="https://sugar.pub"><img src="https://img.shields.io/badge/Website-sugar.pub-3d9144?style=flat-square&logo=safari&logoColor=white" alt="Website"></a>
-</p>
+<h1><samp>Hi, I'm Sugar</samp></h1>
 
-## About Me
-
-> Passionate about full-stack development, AI, and thoughtful design.
->
-> Exploring new technology and building in public.
-
-## Tech Stack
+<p><samp>Code. Learn. Build. Share.</samp></p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,ts,react,mongodb&theme=light" alt="Go, Python, TypeScript, React and MongoDB">
+  <samp><b>&gt;_</b>&nbsp; A student developer who loves<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;building useful things.</samp>
 </p>
 
-## Activity
+<p>
+  <a href="https://github.com/jing-gou"><b>GitHub</b></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sugar.pub@outlook.com"><b>Email</b></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://sugar.pub"><b>Website</b></a>
+</p>
 
-[![Sugar's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jing-gou&bg_color=ffffff&color=3d9144&line=66bd63&point=202124&area=true&hide_border=true)](https://github.com/jing-gou)
+<hr>
+
+<h2><samp>About Me</samp></h2>
+
+<blockquote>
+  <samp>
+    Passionate about full-stack development, AI, and thoughtful design.<br>
+    Exploring new technology and building in public.
+  </samp>
+</blockquote>
+
+<h2><samp>Tech Stack</samp></h2>
+
+<p>
+  <kbd>Go</kbd>&nbsp;
+  <kbd>Python</kbd>&nbsp;
+  <kbd>TypeScript</kbd>&nbsp;
+  <kbd>React</kbd>&nbsp;
+  <kbd>MongoDB</kbd>
+</p>
+
+<br clear="right">
+
+<h2><samp>Activity</samp></h2>
+
+<a href="https://github.com/jing-gou">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jing-gou&amp;bg_color=ffffff&amp;color=3d9144&amp;line=66bd63&amp;point=202124&amp;area=true&amp;hide_border=true" alt="Sugar's GitHub activity graph">
+</a>
