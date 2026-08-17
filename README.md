@@ -10,13 +10,12 @@
   <a href="https://nju.pt/"><b>NJUPT HUB</b></a>
 </p>
 
+<hr>
 <h2><samp>About Me</samp></h2>
 
-<blockquote>
-  <samp>
+<p>
     保持好奇心
-  </samp>
-</blockquote>
+</p>
 
 <br clear="right">
 
