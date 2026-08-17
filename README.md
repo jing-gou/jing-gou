@@ -5,20 +5,16 @@
 <p><samp>Code. Learn. Build. Share.</samp></p>
 
 <p>
-  <a href="https://github.com/jing-gou"><b>GitHub</b></a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sugar.pub@outlook.com"><b>Email</b></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://sugar.pub"><b>Website</b></a>
+  <a href="https://nju.pt/"><b>NJUPT HUB</b></a>
 </p>
-
-<hr>
 
 <h2><samp>About Me</samp></h2>
 
 <blockquote>
   <samp>
-    Hi there.
+    保持好奇心
   </samp>
 </blockquote>
 
