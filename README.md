@@ -15,10 +15,12 @@
 
 <p>
     保持好奇心
-    占位
-    成为一个有趣的人
 </p>
 
+<p>
+    成为一个有趣的人
+</p>
+    
 <br clear="right">
 
 <h2><samp>Activity</samp></h2>
