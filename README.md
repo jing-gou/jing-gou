@@ -22,9 +22,6 @@
   </samp>
 </blockquote>
 
-<h2><samp>Tech Stack</samp></h2>
-
-
 <br clear="right">
 
 <h2><samp>Activity</samp></h2>
