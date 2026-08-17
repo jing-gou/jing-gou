@@ -5,11 +5,6 @@
 <p><samp>Code. Learn. Build. Share.</samp></p>
 
 <p>
-  <samp><b>&gt;_</b>&nbsp; A student developer who loves<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;building useful things.</samp>
-</p>
-
-<p>
   <a href="https://github.com/jing-gou"><b>GitHub</b></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:sugar.pub@outlook.com"><b>Email</b></a>
@@ -23,20 +18,12 @@
 
 <blockquote>
   <samp>
-    Passionate about full-stack development, AI, and thoughtful design.<br>
-    Exploring new technology and building in public.
+    Hi there.
   </samp>
 </blockquote>
 
 <h2><samp>Tech Stack</samp></h2>
 
-<p>
-  <kbd>Go</kbd>&nbsp;
-  <kbd>Python</kbd>&nbsp;
-  <kbd>TypeScript</kbd>&nbsp;
-  <kbd>React</kbd>&nbsp;
-  <kbd>MongoDB</kbd>
-</p>
 
 <br clear="right">
 
