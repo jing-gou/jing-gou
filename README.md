@@ -10,7 +10,7 @@
   <a href="https://nju.pt/"><b>NJUPT HUB</b></a>
 </p>
 
-<hr>
+
 <h2><samp>About Me</samp></h2>
 
 <p>
