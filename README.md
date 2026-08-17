@@ -1,4 +1,4 @@
-<img align="right" src="./assets/frog.png" width="380" alt="Pixel-art green frog">
+<img align="right" src="./assets/frog.png" width="350" alt="frog">
 
 <h1><samp>Hi, I'm Sugar</samp></h1>
 
@@ -15,6 +15,8 @@
 
 <p>
     保持好奇心
+    占位
+    成为一个有趣的人
 </p>
 
 <br clear="right">
