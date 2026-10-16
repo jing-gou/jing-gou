@@ -1,4 +1,4 @@
-<img align="right" src="./assets/frog.png" width="350" alt="frog">
+
 
 <h1><samp>Hi, I'm Sugar</samp></h1>
 
